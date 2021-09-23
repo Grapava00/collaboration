@@ -14,3 +14,27 @@ header{
 	margin-top: 70px;
 	margin-left: 240px;
 }
+
+.container div {
+	display: inline-block;
+ }
+
+ a {
+ 	color: #171717;
+ 	font-size: 13px;
+ 	background: transparent;
+ }
+
+
+ 
+
+.relative {
+	position: relative;
+}
+
+.absolute {
+	position: absolute;
+	top: 60px;
+	left:25px;
+
+}
