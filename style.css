@@ -25,16 +25,57 @@ header{
  	background: transparent;
  }
 
-
  
 
-.relative {
+.first-project {
 	position: relative;
 }
 
-.absolute {
+.pro-first {
 	position: absolute;
-	top: 60px;
-	left:25px;
+	top: 50px;
+	left: 50px;
 
 }
+.second-project {
+	position: relative;
+
+}
+.pro-second {
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
+
+.third-project {
+	position: relative;
+	
+}
+
+.pro-third {
+	position: absolute;
+	top: 50px;
+	left: 50px;
+
+}
+
+.fourth-project{
+	position: relative;
+
+}
+
+
+.pro-fourth {
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
+
+header {
+	position: relative;
+}
+.container {
+	position: absolute;
+	top: -5px;
+}
+	
