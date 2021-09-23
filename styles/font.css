@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Neue Helvetica BQ';
+    src: url('../fonts/NeueHelveticaBQ-Bold.eot');
+    src: url('../fonts/NeueHelveticaBQ-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NeueHelveticaBQ-Bold.woff2') format('woff2'),
+        url('../fonts/NeueHelveticaBQ-Bold.woff') format('woff'),
+        url('../fonts/NeueHelveticaBQ-Bold.ttf') format('truetype'),
+        url('../fonts/NeueHelveticaBQ-Bold.svg#NeueHelveticaBQ-Bold') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
