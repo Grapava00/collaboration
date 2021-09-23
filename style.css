@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+header{
+	background-color: #0A22F4;
+	min-height: 308px;
+	border: 2px solid blue;
+}
+ header h2{
+	color: #FFFFFF;
+	font-size: 32px;
+	margin-top: 70px;
+	margin-left: 240px;
+}
