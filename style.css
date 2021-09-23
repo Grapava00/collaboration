@@ -17,6 +17,7 @@ header{
 
 .container div {
 	display: inline-block;
+	margin-left: 20px ;
  }
 
  a {
@@ -25,7 +26,11 @@ header{
  	background: transparent;
  }
 
- 
+ img {
+ 	width: 370px;
+ 	border-radius: 15px;
+ 	margin: 10px;
+ }
 
 .first-project {
 	position: relative;
@@ -74,8 +79,9 @@ header{
 header {
 	position: relative;
 }
-.container {
+
+div {
 	position: absolute;
-	top: -5px;
+	top: -200px;
 }
 	
